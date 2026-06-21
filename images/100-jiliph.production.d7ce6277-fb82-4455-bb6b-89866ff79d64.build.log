@@ -1,0 +1,389 @@
+2026-06-21T06:13:29.527Z	Initializing build environment...
+2026-06-21T06:13:29.527Z	Initializing build environment...
+2026-06-21T06:13:31.450Z	Success: Finished initializing build environment
+2026-06-21T06:13:31.968Z	Cloning repository...
+2026-06-21T06:13:34.684Z	Detected the following tools from environment: npm@10.9.2, nodejs@22.16.0
+2026-06-21T06:13:34.687Z	Restoring from dependencies cache
+2026-06-21T06:13:34.690Z	Restoring from build output cache
+2026-06-21T06:13:34.855Z	Installing project dependencies: npm clean-install --progress=false
+2026-06-21T06:13:52.789Z	
+2026-06-21T06:13:52.789Z	added 363 packages, and audited 364 packages in 17s
+2026-06-21T06:13:52.793Z	
+2026-06-21T06:13:52.794Z	146 packages are looking for funding
+2026-06-21T06:13:52.794Z	  run `npm fund` for details
+2026-06-21T06:13:52.836Z	
+2026-06-21T06:13:52.836Z	2 moderate severity vulnerabilities
+2026-06-21T06:13:52.836Z	
+2026-06-21T06:13:52.836Z	To address all issues (including breaking changes), run:
+2026-06-21T06:13:52.836Z	  npm audit fix --force
+2026-06-21T06:13:52.837Z	
+2026-06-21T06:13:52.837Z	Run `npm audit` for details.
+2026-06-21T06:13:53.153Z	Executing user build command: npm run build
+2026-06-21T06:13:53.604Z	
+2026-06-21T06:13:53.607Z	> app-temp@0.1.0 build
+2026-06-21T06:13:53.608Z	> next build
+2026-06-21T06:13:53.608Z	
+2026-06-21T06:13:54.376Z	⚠ No build cache found. Please configure build caching for faster rebuilds. Read more: https://nextjs.org/docs/messages/no-cache
+2026-06-21T06:13:54.382Z	Attention: Next.js now collects completely anonymous telemetry regarding usage.
+2026-06-21T06:13:54.383Z	This information is used to shape Next.js' roadmap and prioritize features.
+2026-06-21T06:13:54.383Z	You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+2026-06-21T06:13:54.383Z	https://nextjs.org/telemetry
+2026-06-21T06:13:54.383Z	
+2026-06-21T06:13:54.408Z	▲ Next.js 16.2.9 (Turbopack)
+2026-06-21T06:13:54.409Z	
+2026-06-21T06:13:54.539Z	  Creating an optimized production build ...
+2026-06-21T06:14:07.026Z	✓ Compiled successfully in 12.1s
+2026-06-21T06:14:07.045Z	  Running TypeScript ...
+2026-06-21T06:14:13.740Z	  Finished TypeScript in 6.7s ...
+2026-06-21T06:14:13.751Z	  Collecting page data using 1 worker ...
+2026-06-21T06:14:14.578Z	  Generating static pages using 1 worker (0/44) ...
+2026-06-21T06:14:15.148Z	  Generating static pages using 1 worker (11/44) 
+2026-06-21T06:14:15.313Z	  Generating static pages using 1 worker (22/44) 
+2026-06-21T06:14:15.577Z	  Generating static pages using 1 worker (33/44) 
+2026-06-21T06:14:16.253Z	✓ Generating static pages using 1 worker (44/44) in 1664ms
+2026-06-21T06:14:16.281Z	  Finalizing page optimization ...
+2026-06-21T06:14:16.300Z	
+2026-06-21T06:14:16.302Z	Route (app)
+2026-06-21T06:14:16.303Z	┌ ○ /
+2026-06-21T06:14:16.303Z	├ ○ /_not-found
+2026-06-21T06:14:16.303Z	├ ○ /100-jili-account-recovery
+2026-06-21T06:14:16.303Z	├ ○ /100-jili-affiliate
+2026-06-21T06:14:16.303Z	├ ○ /100-jili-agent-login
+2026-06-21T06:14:16.303Z	├ ○ /100-jili-apk-android
+2026-06-21T06:14:16.304Z	├ ○ /100-jili-app-download
+2026-06-21T06:14:16.304Z	├ ○ /100-jili-bonus
+2026-06-21T06:14:16.304Z	├ ○ /100-jili-casino-philippines
+2026-06-21T06:14:16.304Z	├ ○ /100-jili-commission-rate
+2026-06-21T06:14:16.304Z	├ ○ /100-jili-customer-service
+2026-06-21T06:14:16.304Z	├ ○ /100-jili-deposit-withdrawal
+2026-06-21T06:14:16.304Z	├ ○ /100-jili-fishing-games
+2026-06-21T06:14:16.304Z	├ ○ /100-jili-free-100
+2026-06-21T06:14:16.304Z	├ ○ /100-jili-games
+2026-06-21T06:14:16.305Z	├ ○ /100-jili-gcash-deposit
+2026-06-21T06:14:16.305Z	├ ○ /100-jili-gcash-withdrawal
+2026-06-21T06:14:16.305Z	├ ○ /100-jili-golden-empire
+2026-06-21T06:14:16.305Z	├ ○ /100-jili-install-guide
+2026-06-21T06:14:16.305Z	├ ○ /100-jili-ios-app
+2026-06-21T06:14:16.305Z	├ ○ /100-jili-legit-review
+2026-06-21T06:14:16.305Z	├ ○ /100-jili-live-chat
+2026-06-21T06:14:16.305Z	├ ○ /100-jili-login
+2026-06-21T06:14:16.306Z	├ ○ /100-jili-marketing-tools
+2026-06-21T06:14:16.306Z	├ ○ /100-jili-new-member
+2026-06-21T06:14:16.306Z	├ ○ /100-jili-pagcor-license
+2026-06-21T06:14:16.306Z	├ ○ /100-jili-paymaya
+2026-06-21T06:14:16.306Z	├ ○ /100-jili-payout-speed
+2026-06-21T06:14:16.306Z	├ ○ /100-jili-promo-code
+2026-06-21T06:14:16.306Z	├ ○ /100-jili-register
+2026-06-21T06:14:16.306Z	├ ○ /100-jili-scam-alert
+2026-06-21T06:14:16.307Z	├ ○ /100-jili-sports-betting
+2026-06-21T06:14:16.308Z	├ ○ /100-jili-super-ace
+2026-06-21T06:14:16.308Z	├ ○ /100-jili-telegram
+2026-06-21T06:14:16.308Z	├ ○ /100-jili-vip
+2026-06-21T06:14:16.308Z	├ ○ /100-jili-vs-competitors
+2026-06-21T06:14:16.308Z	├ ○ /100-jili-welcome-bonus
+2026-06-21T06:14:16.308Z	├ ○ /about
+2026-06-21T06:14:16.309Z	├ ○ /contact
+2026-06-21T06:14:16.309Z	├ ○ /privacy-policy
+2026-06-21T06:14:16.309Z	├ ○ /responsible-gaming
+2026-06-21T06:14:16.309Z	└ ○ /terms
+2026-06-21T06:14:16.309Z	
+2026-06-21T06:14:16.309Z	
+2026-06-21T06:14:16.310Z	○  (Static)  prerendered as static content
+2026-06-21T06:14:16.310Z	
+2026-06-21T06:14:16.446Z	Success: Build command completed
+2026-06-21T06:14:16.720Z	Executing user deploy command: npx wrangler deploy
+2026-06-21T06:14:18.325Z	npm warn exec The following package was not found and will be installed: wrangler@4.103.0
+2026-06-21T06:14:29.973Z	
+2026-06-21T06:14:29.973Z	 ⛅️ wrangler 4.103.0
+2026-06-21T06:14:29.974Z	────────────────────
+2026-06-21T06:14:30.228Z	
+2026-06-21T06:14:30.233Z	Detected Project Settings:
+2026-06-21T06:14:30.234Z	 - Worker Name: 100-jiliph
+2026-06-21T06:14:30.234Z	 - Framework: Next.js
+2026-06-21T06:14:30.234Z	 - Build Command: npm run build
+2026-06-21T06:14:30.234Z	 - Output Directory: .next
+2026-06-21T06:14:30.235Z	
+2026-06-21T06:14:30.235Z	? Do you want to modify these settings?
+2026-06-21T06:14:30.235Z	🤖 Using fallback value in non-interactive context: no
+2026-06-21T06:14:30.241Z	
+2026-06-21T06:14:30.241Z	📦 Install packages:
+2026-06-21T06:14:30.242Z	 - wrangler (devDependency)
+2026-06-21T06:14:30.242Z	
+2026-06-21T06:14:30.242Z	📝 Update package.json scripts:
+2026-06-21T06:14:30.242Z	 - "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy"
+2026-06-21T06:14:30.242Z	 - "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview"
+2026-06-21T06:14:30.242Z	
+2026-06-21T06:14:30.242Z	📄 Create wrangler.jsonc:
+2026-06-21T06:14:30.243Z	  {
+2026-06-21T06:14:30.243Z	    "$schema": "node_modules/wrangler/config-schema.json",
+2026-06-21T06:14:30.243Z	    "name": "100-jiliph",
+2026-06-21T06:14:30.243Z	    "compatibility_date": "2026-06-21",
+2026-06-21T06:14:30.243Z	    "observability": {
+2026-06-21T06:14:30.243Z	      "enabled": true
+2026-06-21T06:14:30.243Z	    },
+2026-06-21T06:14:30.243Z	    "compatibility_flags": [
+2026-06-21T06:14:30.244Z	      "nodejs_compat"
+2026-06-21T06:14:30.244Z	    ]
+2026-06-21T06:14:30.244Z	  }
+2026-06-21T06:14:30.244Z	
+2026-06-21T06:14:30.244Z	🛠️  Configuring project for Next.js with OpenNext by running `@opennextjs/cloudflare migrate`
+2026-06-21T06:14:30.244Z	
+2026-06-21T06:14:30.244Z	? Proceed with setup?
+2026-06-21T06:14:30.244Z	🤖 Using fallback value in non-interactive context: yes
+2026-06-21T06:14:37.261Z	npm warn exec The following package was not found and will be installed: @opennextjs/cloudflare@1.19.11
+2026-06-21T06:15:08.068Z	npm warn deprecated node-domexception@1.0.0: Use your platform's native DOMException instead
+2026-06-21T06:15:09.470Z	npm warn deprecated glob@9.3.5: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
+2026-06-21T06:15:25.157Z	
+2026-06-21T06:15:25.157Z	┌───────────────────────────────┐
+2026-06-21T06:15:25.157Z	│ OpenNext — Cloudflare migrate │
+2026-06-21T06:15:25.158Z	└───────────────────────────────┘
+2026-06-21T06:15:25.158Z	
+2026-06-21T06:15:25.159Z	🚀 Setting up the OpenNext Cloudflare adapter...
+2026-06-21T06:15:25.160Z	
+2026-06-21T06:15:25.170Z	⚙️  Installing dependencies...
+2026-06-21T06:15:25.174Z	
+2026-06-21T06:15:25.422Z	npm warn using --force Recommended protections disabled.
+2026-06-21T06:15:34.857Z	npm warn deprecated node-domexception@1.0.0: Use your platform's native DOMException instead
+2026-06-21T06:15:36.349Z	npm warn deprecated glob@9.3.5: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
+2026-06-21T06:15:42.486Z	
+2026-06-21T06:15:42.486Z	added 265 packages, and audited 656 packages in 17s
+2026-06-21T06:15:42.493Z	
+2026-06-21T06:15:42.493Z	202 packages are looking for funding
+2026-06-21T06:15:42.493Z	  run `npm fund` for details
+2026-06-21T06:15:42.547Z	
+2026-06-21T06:15:42.548Z	4 moderate severity vulnerabilities
+2026-06-21T06:15:42.548Z	
+2026-06-21T06:15:42.548Z	To address all issues (including breaking changes), run:
+2026-06-21T06:15:42.548Z	  npm audit fix --force
+2026-06-21T06:15:42.548Z	
+2026-06-21T06:15:42.548Z	Run `npm audit` for details.
+2026-06-21T06:15:42.788Z	npm warn using --force Recommended protections disabled.
+2026-06-21T06:15:45.881Z	
+2026-06-21T06:15:45.881Z	added 1 package, and audited 657 packages in 3s
+2026-06-21T06:15:45.881Z	
+2026-06-21T06:15:45.881Z	202 packages are looking for funding
+2026-06-21T06:15:45.881Z	  run `npm fund` for details
+2026-06-21T06:15:45.926Z	
+2026-06-21T06:15:45.926Z	4 moderate severity vulnerabilities
+2026-06-21T06:15:45.926Z	
+2026-06-21T06:15:45.927Z	To address all issues (including breaking changes), run:
+2026-06-21T06:15:45.927Z	  npm audit fix --force
+2026-06-21T06:15:45.927Z	
+2026-06-21T06:15:45.928Z	Run `npm audit` for details.
+2026-06-21T06:15:45.951Z	⚙️  Creating wrangler.jsonc...
+2026-06-21T06:15:45.952Z	
+2026-06-21T06:15:49.466Z	WARN Failed to set up cache for your project.
+2026-06-21T06:15:49.466Z	After the migration completes, please manually setup cache in  wrangler.jsonc and open-next.config.ts files (for more details see: https://opennext.js.org/cloudflare/caching).
+2026-06-21T06:15:49.468Z	
+2026-06-21T06:15:49.468Z	⚙️  Creating open-next.config.ts...
+2026-06-21T06:15:49.468Z	
+2026-06-21T06:15:49.480Z	⚙️  Creating .dev.vars file...
+2026-06-21T06:15:49.480Z	
+2026-06-21T06:15:49.481Z	⚙️  Creating public/_headers file...
+2026-06-21T06:15:49.481Z	
+2026-06-21T06:15:49.481Z	⚙️  Updating package.json scripts...
+2026-06-21T06:15:49.481Z	
+2026-06-21T06:15:49.485Z	⚙️  Updating .gitignore file...
+2026-06-21T06:15:49.485Z	
+2026-06-21T06:15:49.485Z	⚙️  Updating Next.js config...
+2026-06-21T06:15:49.485Z	
+2026-06-21T06:15:49.486Z	⚙️  Checking for edge runtime usage...
+2026-06-21T06:15:49.486Z	
+2026-06-21T06:15:49.486Z	🎉 OpenNext Cloudflare adapter complete!
+2026-06-21T06:15:49.486Z	
+2026-06-21T06:15:49.486Z	Next steps:
+2026-06-21T06:15:49.487Z	- Run: "npm run preview" to build and preview your Cloudflare application locally
+2026-06-21T06:15:49.487Z	- Run: "npm run deploy" to deploy your application to Cloudflare Workers
+2026-06-21T06:15:49.487Z	- ⚠️  Setup cache, see https://opennext.js.org/cloudflare/caching for more details
+2026-06-21T06:15:49.487Z	
+2026-06-21T06:15:49.708Z	├ Adding Wrangler files to the .gitignore file
+2026-06-21T06:15:49.709Z	│ updated .gitignore file
+2026-06-21T06:15:49.710Z	│
+2026-06-21T06:15:49.710Z	[build] Running: npx opennextjs-cloudflare build
+2026-06-21T06:15:52.555Z	[build] 
+2026-06-21T06:15:52.555Z	[build] ┌─────────────────────────────┐
+2026-06-21T06:15:52.557Z	[build] │ OpenNext — Cloudflare build │
+2026-06-21T06:15:52.557Z	[build] └─────────────────────────────┘
+2026-06-21T06:15:52.557Z	[build] 
+2026-06-21T06:15:52.557Z	[build] 
+2026-06-21T06:15:52.671Z	[build] App directory: /opt/buildhome/repo
+2026-06-21T06:15:52.672Z	[build] 
+2026-06-21T06:15:52.672Z	[build] Next.js version : 16.2.9
+2026-06-21T06:15:52.673Z	[build] @opennextjs/cloudflare version: 1.19.11
+2026-06-21T06:15:52.673Z	[build] @opennextjs/aws version: 4.0.2
+2026-06-21T06:15:52.674Z	[build] workerd compatibility_date: 2026-06-21
+2026-06-21T06:15:52.674Z	[build] 
+2026-06-21T06:15:52.674Z	[build] ┌─────────────────────────────────┐
+2026-06-21T06:15:52.675Z	[build] │ OpenNext — Building Next.js app │
+2026-06-21T06:15:52.675Z	[build] └─────────────────────────────────┘
+2026-06-21T06:15:52.675Z	[build] 
+2026-06-21T06:15:52.676Z	[build] 
+2026-06-21T06:15:52.906Z	[build] 
+2026-06-21T06:15:52.907Z	[build] > app-temp@0.1.0 build
+2026-06-21T06:15:52.907Z	[build] > next build
+2026-06-21T06:15:52.907Z	[build] 
+2026-06-21T06:15:52.907Z	[build] 
+2026-06-21T06:15:53.564Z	[build] ▲ Next.js 16.2.9 (Turbopack)
+2026-06-21T06:15:53.569Z	[build] 
+2026-06-21T06:15:53.570Z	[build] 
+2026-06-21T06:15:53.570Z	[build] 
+2026-06-21T06:15:53.671Z	[build]   Creating an optimized production build ...
+2026-06-21T06:15:53.671Z	[build] 
+2026-06-21T06:15:56.277Z	[build] Using secrets defined in .dev.vars
+2026-06-21T06:15:56.282Z	[build] 
+2026-06-21T06:16:07.120Z	[build] ✓ Compiled successfully in 13.1s
+2026-06-21T06:16:07.120Z	[build] 
+2026-06-21T06:16:07.133Z	[build]   Running TypeScript ...
+2026-06-21T06:16:07.133Z	[build] 
+2026-06-21T06:16:16.181Z	[build]   Finished TypeScript in 9.0s ...
+2026-06-21T06:16:16.182Z	[build] 
+2026-06-21T06:16:16.199Z	[build]   Collecting page data using 1 worker ...
+2026-06-21T06:16:16.200Z	[build] 
+2026-06-21T06:16:17.075Z	[build]   Generating static pages using 1 worker (0/44) ...
+2026-06-21T06:16:17.077Z	[build] 
+2026-06-21T06:16:17.718Z	[build]   Generating static pages using 1 worker (11/44) 
+2026-06-21T06:16:17.718Z	[build] 
+2026-06-21T06:16:17.874Z	[build]   Generating static pages using 1 worker (22/44) 
+2026-06-21T06:16:17.875Z	[build] 
+2026-06-21T06:16:18.196Z	[build]   Generating static pages using 1 worker (33/44) 
+2026-06-21T06:16:18.200Z	[build] 
+2026-06-21T06:16:18.302Z	[build] ✓ Generating static pages using 1 worker (44/44) in 1227ms
+2026-06-21T06:16:18.303Z	[build] 
+2026-06-21T06:16:18.312Z	[build]   Finalizing page optimization ...
+2026-06-21T06:16:18.312Z	[build] 
+2026-06-21T06:16:18.966Z	[build] 
+2026-06-21T06:16:18.966Z	[build] 
+2026-06-21T06:16:18.970Z	[build] Route (app)
+2026-06-21T06:16:18.970Z	[build] ┌ ○ /
+2026-06-21T06:16:18.971Z	[build] ├ ○ /_not-found
+2026-06-21T06:16:18.971Z	[build] ├ ○ /100-jili-account-recovery
+2026-06-21T06:16:18.971Z	[build] ├ ○ /100-jili-affiliate
+2026-06-21T06:16:18.971Z	[build] ├ ○ /100-jili-agent-login
+2026-06-21T06:16:18.971Z	[build] ├ ○ /100-jili-apk-android
+2026-06-21T06:16:18.971Z	[build] ├ ○ /100-jili-app-download
+2026-06-21T06:16:18.971Z	[build] ├ ○ /100-jili-bonus
+2026-06-21T06:16:18.971Z	[build] ├ ○ /100-jili-casino-philippines
+2026-06-21T06:16:18.971Z	[build] ├ ○ /100-jili-commission-rate
+2026-06-21T06:16:18.971Z	[build] ├ ○ /100-jili-customer-service
+2026-06-21T06:16:18.971Z	[build] ├ ○ /100-jili-deposit-withdrawal
+2026-06-21T06:16:18.972Z	[build] ├ ○ /100-jili-fishing-games
+2026-06-21T06:16:18.972Z	[build] ├ ○ /100-jili-free-100
+2026-06-21T06:16:18.972Z	[build] ├ ○ /100-jili-games
+2026-06-21T06:16:18.973Z	[build] ├ ○ /100-jili-gcash-deposit
+2026-06-21T06:16:18.973Z	[build] ├ ○ /100-jili-gcash-withdrawal
+2026-06-21T06:16:18.973Z	[build] ├ ○ /100-jili-golden-empire
+2026-06-21T06:16:18.974Z	[build] ├ ○ /100-jili-install-guide
+2026-06-21T06:16:18.974Z	[build] ├ ○ /100-jili-ios-app
+2026-06-21T06:16:18.976Z	[build] ├ ○ /100-jili-legit-review
+2026-06-21T06:16:18.976Z	[build] ├ ○ /100-jili-live-chat
+2026-06-21T06:16:18.976Z	[build] ├ ○ /100-jili-login
+2026-06-21T06:16:18.976Z	[build] ├ ○ /100-jili-marketing-tools
+2026-06-21T06:16:18.976Z	[build] ├ ○ /100-jili-new-member
+2026-06-21T06:16:18.976Z	[build] ├ ○ /100-jili-pagcor-license
+2026-06-21T06:16:18.976Z	[build] ├ ○ /100-jili-paymaya
+2026-06-21T06:16:18.976Z	[build] ├ ○ /100-jili-payout-speed
+2026-06-21T06:16:18.976Z	[build] ├ ○ /100-jili-promo-code
+2026-06-21T06:16:18.976Z	[build] ├ ○ /100-jili-register
+2026-06-21T06:16:18.976Z	[build] ├ ○ /100-jili-scam-alert
+2026-06-21T06:16:18.976Z	[build] ├ ○ /100-jili-sports-betting
+2026-06-21T06:16:18.976Z	[build] ├ ○ /100-jili-super-ace
+2026-06-21T06:16:18.976Z	[build] ├ ○ /100-jili-telegram
+2026-06-21T06:16:18.976Z	[build] ├ ○ /100-jili-vip
+2026-06-21T06:16:18.976Z	[build] ├ ○ /100-jili-vs-competitors
+2026-06-21T06:16:18.976Z	[build] ├ ○ /100-jili-welcome-bonus
+2026-06-21T06:16:18.976Z	[build] ├ ○ /about
+2026-06-21T06:16:18.976Z	[build] ├ ○ /contact
+2026-06-21T06:16:18.977Z	[build] ├ ○ /privacy-policy
+2026-06-21T06:16:18.977Z	[build] ├ ○ /responsible-gaming
+2026-06-21T06:16:18.977Z	[build] └ ○ /terms
+2026-06-21T06:16:18.978Z	[build] 
+2026-06-21T06:16:18.978Z	[build] 
+2026-06-21T06:16:18.978Z	[build] 
+2026-06-21T06:16:18.978Z	[build] ○  (Static)  prerendered as static content
+2026-06-21T06:16:18.978Z	[build] 
+2026-06-21T06:16:18.978Z	[build] 
+2026-06-21T06:16:19.108Z	[build] 
+2026-06-21T06:16:19.109Z	[build] ┌──────────────────────────────┐
+2026-06-21T06:16:19.109Z	[build] │ OpenNext — Generating bundle │
+2026-06-21T06:16:19.109Z	[build] └──────────────────────────────┘
+2026-06-21T06:16:19.109Z	[build] 
+2026-06-21T06:16:19.109Z	[build] 
+2026-06-21T06:16:19.177Z	[build] Bundling middleware function...
+2026-06-21T06:16:19.178Z	[build] 
+2026-06-21T06:16:19.319Z	[build] Bundling static assets...
+2026-06-21T06:16:19.319Z	[build] 
+2026-06-21T06:16:19.446Z	[build] Bundling cache assets...
+2026-06-21T06:16:19.446Z	[build] 
+2026-06-21T06:16:19.569Z	[build] Building server function: default...
+2026-06-21T06:16:19.569Z	[build] 
+2026-06-21T06:16:23.470Z	[build] Applying code patches: 3.414s
+2026-06-21T06:16:23.471Z	[build] 
+2026-06-21T06:16:23.922Z	[build] # copyPackageTemplateFiles
+2026-06-21T06:16:23.923Z	[build] 
+2026-06-21T06:16:23.927Z	[build] ⚙️ Bundling the OpenNext server...
+2026-06-21T06:16:23.928Z	[build] 
+2026-06-21T06:16:23.928Z	[build] 
+2026-06-21T06:16:27.175Z	[build] Worker saved in `.open-next/worker.js` 🚀
+2026-06-21T06:16:27.178Z	[build] 
+2026-06-21T06:16:27.179Z	[build] 
+2026-06-21T06:16:27.180Z	[build] OpenNext build complete.
+2026-06-21T06:16:27.180Z	[build] 
+2026-06-21T06:16:27.493Z	OpenNext project detected, calling `opennextjs-cloudflare deploy`
+2026-06-21T06:16:32.990Z	
+2026-06-21T06:16:32.990Z	┌──────────────────────────────┐
+2026-06-21T06:16:32.990Z	│ OpenNext — Cloudflare deploy │
+2026-06-21T06:16:32.991Z	└──────────────────────────────┘
+2026-06-21T06:16:32.991Z	
+2026-06-21T06:16:33.072Z	Using secrets defined in .dev.vars
+2026-06-21T06:16:33.587Z	Incremental cache does not need populating
+2026-06-21T06:16:33.587Z	Tag cache does not need populating
+2026-06-21T06:16:35.170Z	
+2026-06-21T06:16:35.171Z	 ⛅️ wrangler 4.103.0
+2026-06-21T06:16:35.171Z	────────────────────
+2026-06-21T06:16:35.178Z	
+2026-06-21T06:16:35.178Z	Cloudflare collects anonymous telemetry about your usage of Wrangler. Learn more at https://github.com/cloudflare/workers-sdk/tree/main/packages/wrangler/telemetry.md
+2026-06-21T06:16:36.984Z	🌀 Building list of assets...
+2026-06-21T06:16:36.986Z	✨ Read 77 files from the assets directory /opt/buildhome/repo/.open-next/assets
+2026-06-21T06:16:37.069Z	🌀 Starting asset upload...
+2026-06-21T06:16:38.793Z	🌀 Found 1 new or modified static asset to upload. Proceeding with upload...
+2026-06-21T06:16:38.795Z	+ /BUILD_ID
+2026-06-21T06:16:39.769Z	Uploaded 1 of 1 asset
+2026-06-21T06:16:39.770Z	✨ Success! Uploaded 1 file (70 already uploaded) (0.97 sec)
+2026-06-21T06:16:39.770Z	
+2026-06-21T06:16:39.968Z	Total Upload: 6411.83 KiB / gzip: 1392.14 KiB
+2026-06-21T06:16:40.715Z	Your Worker has access to the following bindings:
+2026-06-21T06:16:40.715Z	Binding                                   Resource      
+2026-06-21T06:16:40.715Z	env.WORKER_SELF_REFERENCE (app-temp)      Worker        
+2026-06-21T06:16:40.715Z	env.IMAGES                                Images        
+2026-06-21T06:16:40.715Z	env.ASSETS                                Assets        
+2026-06-21T06:16:40.715Z	
+2026-06-21T06:16:40.717Z	
+2026-06-21T06:16:40.866Z	✘ [ERROR] A request to the Cloudflare API (/accounts/ee3ceedb25c83c1c6c76217e4b8c563d/workers/scripts/100-jiliph/versions) failed.
+2026-06-21T06:16:40.866Z	
+2026-06-21T06:16:40.867Z	  Service binding 'WORKER_SELF_REFERENCE' references Worker 'app-temp' which was not found. Verify the Worker exists in your account and that the service name in your configuration is correct. [code: 10143]
+2026-06-21T06:16:40.867Z	  To learn more about this error, visit: https://developers.cloudflare.com/workers/configuration/bindings/about-service-bindings/
+2026-06-21T06:16:40.867Z	
+2026-06-21T06:16:40.867Z	  
+2026-06-21T06:16:40.867Z	  If you think this is a bug, please open an issue at: https://github.com/cloudflare/workers-sdk/issues/new/choose
+2026-06-21T06:16:40.867Z	
+2026-06-21T06:16:40.867Z	
+2026-06-21T06:16:40.867Z	🪵  Logs were written to "/opt/buildhome/.config/.wrangler/logs/wrangler-2026-06-21_06-16-34_819.log"
+2026-06-21T06:16:40.867Z	ERROR Wrangler deploy command failed:
+2026-06-21T06:16:40.867Z	✘ [ERROR] A request to the Cloudflare API (/accounts/ee3ceedb25c83c1c6c76217e4b8c563d/workers/scripts/100-jiliph/versions) failed.
+2026-06-21T06:16:40.867Z	
+2026-06-21T06:16:40.867Z	  Service binding 'WORKER_SELF_REFERENCE' references Worker 'app-temp' which was not found. Verify the Worker exists in your account and that the service name in your configuration is correct. [code: 10143]
+2026-06-21T06:16:40.867Z	  To learn more about this error, visit: https://developers.cloudflare.com/workers/configuration/bindings/about-service-bindings/
+2026-06-21T06:16:40.867Z	
+2026-06-21T06:16:40.867Z	  
+2026-06-21T06:16:40.867Z	  If you think this is a bug, please open an issue at: https://github.com/cloudflare/workers-sdk/issues/new/choose
+2026-06-21T06:16:40.867Z	
+2026-06-21T06:16:40.869Z	
+2026-06-21T06:16:40.869Z	🪵  Logs were written to "/opt/buildhome/.config/.wrangler/logs/wrangler-2026-06-21_06-16-34_819.log"
+2026-06-21T06:16:40.869Z	
+2026-06-21T06:16:40.932Z	
+2026-06-21T06:16:41.010Z	✘ [ERROR] 
+2026-06-21T06:16:41.011Z	
+2026-06-21T06:16:41.011Z	
+2026-06-21T06:16:41.047Z	If you think this is a bug then please create an issue at https://github.com/cloudflare/workers-sdk/issues/new/choose
+2026-06-21T06:16:41.065Z	🪵  Logs were written to "/opt/buildhome/.config/.wrangler/logs/wrangler-2026-06-21_06-14-29_371.log"
+2026-06-21T06:16:41.140Z	Failed: error occurred while running deploy command
