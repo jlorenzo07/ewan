@@ -1,0 +1,77 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-midnight: #0A192F;
+  --color-brand-navy: #112240;
+  --color-brand-light-navy: #233554;
+  --color-brand-neon-jade: #00FF88;
+  --color-brand-dark-jade: #00CC6A;
+  --color-brand-white: #E6F1FF;
+  --color-brand-slate: #8892B0;
+  
+  --font-sans: var(--font-inter);
+  --font-heading: var(--font-outfit);
+}
+
+:root {
+  --background: var(--color-brand-midnight);
+  --foreground: var(--color-brand-slate);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading), sans-serif;
+  color: var(--color-brand-white);
+  font-weight: 700;
+}
+
+/* Default anchor style – applies only to plain text links */
+a:not([class]) {
+  color: var(--color-brand-neon-jade);
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+a:not([class]):hover {
+  color: var(--color-brand-dark-jade);
+}
+
+/* Prose (article) link styles */
+.prose a {
+  color: var(--color-brand-neon-jade);
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+.prose a:hover {
+  color: var(--color-brand-dark-jade);
+  text-decoration: underline;
+}
+
+/* Solid jade CTA buttons */
+a.btn-primary,
+a[class*="bg-[#00FF88]"],
+a[class*="bg-[var(--color-brand-neon-jade)]"] {
+  color: #0A192F !important;
+  font-weight: 700;
+}
+
+/* Login ghost/outline button */
+a.btn-login {
+  color: #00FF88 !important;
+  border: 1px solid #00FF88;
+  background: transparent;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+a.btn-login:hover {
+  background: #00FF88 !important;
+  color: #0A192F !important;
+}
